@@ -1,0 +1,35 @@
+//
+//  ZJPrefixHeader.pch
+//  ZJProjectBete3
+//
+//  Created by qianfeng on 16/3/18.
+//  Copyright © 2016年 周杰. All rights reserved.
+//
+
+#ifndef ZJPrefixHeader_pch
+#define ZJPrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#ifdef __OBJC__
+//这之间添加需要的宏定义
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#import "UrlConst.h"
+#import "UIColor+ZJ.h"
+#import "UIImage+ZJ.h"
+#import "ZJAlertTool.h"
+#define Screen_Width [UIScreen mainScreen].bounds.size.width
+#define Screen_Height [UIScreen mainScreen].bounds.size.height
+//获得RGB颜色
+#define ZJColor(r, g, b) [UIColor colorWithRed:(r)/255.0 green:(g)/255.0 blue:(b)/255.0 alpha:1.0]
+//自定义Log
+#ifdef DEBUG
+#define ZJLog(...) NSLog(__VA_ARGS__)
+#else
+#define ZJLog(...)
+#endif
+#endif
+
+
+#endif /* ZJPrefixHeader_pch */

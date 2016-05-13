@@ -1,0 +1,3012 @@
+{
+  "error_code" : 0,
+  "reason" : "Succes",
+  "result" : [
+    {
+      "code" : "shentong",
+      "name" : "申通",
+      "tel" : "95543",
+      "web" : "www.sto.cn"
+    },
+    {
+      "code" : "ems",
+      "name" : "EMS",
+      "tel" : "11183",
+      "web" : "www.ems.com.cn"
+    },
+    {
+      "code" : "shunfeng",
+      "name" : "顺丰",
+      "tel" : "95338",
+      "web" : "www.sf-express.com"
+    },
+    {
+      "code" : "yunda",
+      "name" : "韵达",
+      "tel" : "95546",
+      "web" : "www.yundaex.com"
+    },
+    {
+      "code" : "yuantong",
+      "name" : "圆通",
+      "tel" : "95554",
+      "web" : "www.ytoexpress.com"
+    },
+    {
+      "code" : "zhongtong",
+      "name" : "中通",
+      "tel" : "95311",
+      "web" : "www.zto.cn"
+    },
+    {
+      "code" : "huitongkuaidi",
+      "name" : "汇通",
+      "tel" : "4009 565656",
+      "web" : "www.800bestex.com"
+    },
+    {
+      "code" : "tiantian",
+      "name" : "天天",
+      "tel" : "400-188-8888",
+      "web" : "www.ttkdex.com"
+    },
+    {
+      "code" : "zhaijisong",
+      "name" : "宅急送",
+      "tel" : "400-6789-000",
+      "web" : "www.zjs.com.cn"
+    },
+    {
+      "code" : "xinhongyukuaidi",
+      "name" : "鑫飞鸿",
+      "tel" : "021-69781999",
+      "web" : "www.kuaidi100.com\\all\\xfh.shtml"
+    },
+    {
+      "code" : "cces",
+      "name" : "CCES",
+      "tel" : "400-111-1123",
+      "web" : "www.gto365.com"
+    },
+    {
+      "code" : "quanyikuaidi",
+      "name" : "全一",
+      "tel" : "400-663-1111",
+      "web" : "www.unitop-apex.com"
+    },
+    {
+      "code" : "biaojikuaidi",
+      "name" : "彪记",
+      "tel" : "+886 (02) 2562-3533",
+      "web" : "www.pewkee.com"
+    },
+    {
+      "code" : "xingchengjibian",
+      "name" : "星晨急便",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "yafengsudi",
+      "name" : "亚风",
+      "tel" : "4001-000-002",
+      "web" : "www.af-express.com"
+    },
+    {
+      "code" : "yuanweifeng",
+      "name" : "源伟丰",
+      "tel" : "400-601-2228",
+      "web" : "www.ywfex.com"
+    },
+    {
+      "code" : "quanritongkuaidi",
+      "name" : "全日通",
+      "tel" : "020-86298999",
+      "web" : "www.at-express.com"
+    },
+    {
+      "code" : "anxindakuaixi",
+      "name" : "安信达",
+      "tel" : "400-626-2356",
+      "web" : "www.anxinda.com"
+    },
+    {
+      "code" : "minghangkuaidi",
+      "name" : "民航",
+      "tel" : "400-817-4008",
+      "web" : "www.cae.com.cn"
+    },
+    {
+      "code" : "fenghuangkuaidi",
+      "name" : "凤凰",
+      "tel" : "010-85826200",
+      "web" : "www.phoenixexp.com"
+    },
+    {
+      "code" : "jinguangsudikuaijian",
+      "name" : "京广",
+      "tel" : "0769-88629888",
+      "web" : "www.szkke.com"
+    },
+    {
+      "code" : "peisihuoyunkuaidi",
+      "name" : "配思",
+      "tel" : "010-65489928\t,65489571,\t65489469\t,65489456",
+      "web" : "www.peisi.cn"
+    },
+    {
+      "code" : "ztky",
+      "name" : "中铁",
+      "tel" : "400-000-5566",
+      "web" : "www.ztky.com "
+    },
+    {
+      "code" : "ups",
+      "name" : "UPS",
+      "tel" : "400-820-8388",
+      "web" : "www.ups.com\\cn"
+    },
+    {
+      "code" : "fedex",
+      "name" : "FedEx",
+      "tel" : "400-886-1888",
+      "web" : "fedex.com\\cn"
+    },
+    {
+      "code" : "dhl",
+      "name" : "DHL",
+      "tel" : "800-810-8000",
+      "web" : "www.cn.dhl.com"
+    },
+    {
+      "code" : "aae",
+      "name" : "AAE",
+      "tel" : "400-610-0400",
+      "web" : "cn.aaeweb.com"
+    },
+    {
+      "code" : "datianwuliu",
+      "name" : "大田",
+      "tel" : "400-626-1166",
+      "web" : "www.dtw.com.cn"
+    },
+    {
+      "code" : "debangwuliu",
+      "name" : "德邦",
+      "tel" : "95353",
+      "web" : "www.deppon.com"
+    },
+    {
+      "code" : "xinbangwuliu",
+      "name" : "新邦",
+      "tel" : "4008-000-222",
+      "web" : "www.xbwl.cn"
+    },
+    {
+      "code" : "longbanwuliu",
+      "name" : "龙邦",
+      "tel" : "021-59218889",
+      "web" : "www.lbex.com.cn"
+    },
+    {
+      "code" : "yibangwuliu",
+      "name" : "一邦",
+      "tel" : "000-000-0000",
+      "web" : "www.ebon-express.com"
+    },
+    {
+      "code" : "suer",
+      "name" : "速尔",
+      "tel" : "400-158-9888",
+      "web" : "www.sure56.com"
+    },
+    {
+      "code" : "lianhaowuliu",
+      "name" : "联昊通",
+      "tel" : "0769-88620000",
+      "web" : "www.lhtex.com.cn"
+    },
+    {
+      "code" : "guangdongyouzhengwuliu",
+      "name" : "广东邮政",
+      "tel" : "020-38181677",
+      "web" : "www.ep183.cn"
+    },
+    {
+      "code" : "zhongyouwuliu",
+      "name" : "中邮",
+      "tel" : "11183",
+      "web" : "www.cnpl.com.cn"
+    },
+    {
+      "code" : "tiandihuayu",
+      "name" : "华宇",
+      "tel" : "400-808-6666",
+      "web" : "www.hoau.net"
+    },
+    {
+      "code" : "shenghuiwuliu",
+      "name" : "盛辉",
+      "tel" : "4008-222-222",
+      "web" : "www.shenghui56.com"
+    },
+    {
+      "code" : "changyuwuliu",
+      "name" : "长宇",
+      "tel" : "4007-161-262",
+      "web" : "61.145.121.47\\custSearch.jsp"
+    },
+    {
+      "code" : "feikangda",
+      "name" : "飞康达",
+      "tel" : "010-84223376\t,84223378",
+      "web" : "www.fkd.com.cn"
+    },
+    {
+      "code" : "yuanzhijiecheng",
+      "name" : "元智捷诚",
+      "tel" : "400-081-2345",
+      "web" : "www.yjkd.com"
+    },
+    {
+      "code" : "youzhengguonei",
+      "name" : "邮政国内",
+      "tel" : "11185",
+      "web" : "yjcx.chinapost.com.cn"
+    },
+    {
+      "code" : "youzhengguoji",
+      "name" : "邮政国际",
+      "tel" : "11185",
+      "web" : "intmail.183.com.cn"
+    },
+    {
+      "code" : "wanjiawuliu",
+      "name" : "万家",
+      "tel" : "4001-156-561",
+      "web" : "www.manco-logistics.com"
+    },
+    {
+      "code" : "yuanchengwuliu",
+      "name" : "远成",
+      "tel" : "400-820-1646",
+      "web" : "www.ycgwl.com"
+    },
+    {
+      "code" : "xinfengwuliu",
+      "name" : "信丰",
+      "tel" : "400-830-6333",
+      "web" : "www.xf-express.com.cn"
+    },
+    {
+      "code" : "wenjiesudi",
+      "name" : "文捷",
+      "tel" : "020-88561502,\t85871501,\t31683301",
+      "web" : "www.wjexpress.com"
+    },
+    {
+      "code" : "quanchenkuaidi",
+      "name" : "全晨",
+      "tel" : "0769-82026703",
+      "web" : "www.qckd.net"
+    },
+    {
+      "code" : "jiayiwuliu",
+      "name" : "佳怡",
+      "tel" : "400-631-9999",
+      "web" : "www.jiayi56.com"
+    },
+    {
+      "code" : "youshuwuliu",
+      "name" : "优速",
+      "tel" : "400-1111-119",
+      "web" : "www.uc56.com"
+    },
+    {
+      "code" : "kuaijiesudi",
+      "name" : "快捷",
+      "tel" : "4008-333-666",
+      "web" : "www.kjkd.com"
+    },
+    {
+      "code" : "dsukuaidi",
+      "name" : "D速",
+      "tel" : "0531-88636363",
+      "web" : "www.d-exp.cn"
+    },
+    {
+      "code" : "quanjitong",
+      "name" : "全际通",
+      "tel" : "400-0179-888",
+      "web" : "www.quanjt.com"
+    },
+    {
+      "code" : "ganzhongnengda",
+      "name" : "能达",
+      "tel" : "400-6886-765",
+      "web" : "www.neda-express.com"
+    },
+    {
+      "code" : "anjiekuaidi",
+      "name" : "安捷",
+      "tel" : "400-056-5656",
+      "web" : "www.anjelex.com"
+    },
+    {
+      "code" : "yuefengwuliu",
+      "name" : "越丰",
+      "tel" : "852-23909969",
+      "web" : "www.yfexpress.com.hk"
+    },
+    {
+      "code" : "dpex",
+      "name" : "DPEX",
+      "tel" : "021-64659883",
+      "web" : "www.szdpex.com.cn"
+    },
+    {
+      "code" : "jixianda",
+      "name" : "急先达",
+      "tel" : "021-59766363",
+      "web" : "www.joust.net.cn"
+    },
+    {
+      "code" : "baifudongfang",
+      "name" : "百福东方",
+      "tel" : "400-706-0609",
+      "web" : "www.ees.com.cn"
+    },
+    {
+      "code" : "bht",
+      "name" : "BHT",
+      "tel" : "010-58633508",
+      "web" : "www.bht-exp.com"
+    },
+    {
+      "code" : "wuyuansudi",
+      "name" : "伍圆",
+      "tel" : "0592—5050535",
+      "web" : "www.f5xm.com"
+    },
+    {
+      "code" : "lanbiaokuaidi",
+      "name" : "蓝镖",
+      "tel" : "0769-82898999",
+      "web" : "www.bluedart.cn"
+    },
+    {
+      "code" : "coe",
+      "name" : "COE",
+      "tel" : "0755-83575000",
+      "web" : "www.coe.com.hk"
+    },
+    {
+      "code" : "nanjing",
+      "name" : "南京100",
+      "tel" : "025-84510043",
+      "web" : "www.100cskd.com"
+    },
+    {
+      "code" : "hengluwuliu",
+      "name" : "恒路",
+      "tel" : "400-182-6666",
+      "web" : "www.e-henglu.com"
+    },
+    {
+      "code" : "jindawuliu",
+      "name" : "金大",
+      "tel" : "0755-82262209",
+      "web" : "www.szkingdom.com.cn"
+    },
+    {
+      "code" : "huaxialongwuliu",
+      "name" : "华夏龙",
+      "tel" : "400-716-6133",
+      "web" : "www.chinadragon56.com"
+    },
+    {
+      "code" : "yuntongkuaidi",
+      "name" : "运通",
+      "tel" : "0769-81156999",
+      "web" : "www.ytkd168.com"
+    },
+    {
+      "code" : "jiajiwuliu",
+      "name" : "佳吉",
+      "tel" : "400-820-5566",
+      "web" : "www.jiaji.com"
+    },
+    {
+      "code" : "shengfengwuliu",
+      "name" : "盛丰",
+      "tel" : "0591-83621111",
+      "web" : "www.sfwl.com.cn"
+    },
+    {
+      "code" : "yuananda",
+      "name" : "源安达",
+      "tel" : "0769-85157789",
+      "web" : "www.yadex.com.cn"
+    },
+    {
+      "code" : "jiayunmeiwuliu",
+      "name" : "加运美",
+      "tel" : "0769-85515555",
+      "web" : "www.tms56.com"
+    },
+    {
+      "code" : "wanxiangwuliu",
+      "name" : "万象",
+      "tel" : "400-820-8088",
+      "web" : "www.ewinshine.com"
+    },
+    {
+      "code" : "hongpinwuliu",
+      "name" : "宏品",
+      "tel" : "400-612-1456",
+      "web" : "www.hpexpress.com.cn"
+    },
+    {
+      "code" : "gls",
+      "name" : "GLS",
+      "tel" : "877-914-5465",
+      "web" : "www.gls-group.net"
+    },
+    {
+      "code" : "shangda",
+      "name" : "上大",
+      "tel" : "400-021-9122",
+      "web" : "www.sundapost.net"
+    },
+    {
+      "code" : "zhongtiewuliu",
+      "name" : "中铁",
+      "tel" : "95572",
+      "web" : "www.cre.cn "
+    },
+    {
+      "code" : "yuanfeihangwuliu",
+      "name" : "原飞航",
+      "tel" : "0755-29778899",
+      "web" : "www.yfhex.com"
+    },
+    {
+      "code" : "haiwaihuanqiu",
+      "name" : "海外环球",
+      "tel" : "010-59790107",
+      "web" : "www.haiwaihuanqiu.com"
+    },
+    {
+      "code" : "santaisudi",
+      "name" : "三态",
+      "tel" : "400-881-8106 ",
+      "web" : "www.sfcservice.com"
+    },
+    {
+      "code" : "jinyuekuaidi",
+      "name" : "晋越",
+      "tel" : "400-638-9288",
+      "web" : "www.byondex.com"
+    },
+    {
+      "code" : "lianbangkuaidi",
+      "name" : "联邦",
+      "tel" : "400-889-1888",
+      "web" : "cndxp.apac.fedex.com\\dxp.html"
+    },
+    {
+      "code" : "feikuaida",
+      "name" : "飞快达",
+      "tel" : "400-716-6666",
+      "web" : "www.fkdex.com"
+    },
+    {
+      "code" : "quanfengkuaidi",
+      "name" : "全峰",
+      "tel" : "400-100-0001",
+      "web" : "www.qfkd.com.cn"
+    },
+    {
+      "code" : "rufengda",
+      "name" : "如风达",
+      "tel" : "400-010-6660",
+      "web" : "www.rufengda.com"
+    },
+    {
+      "code" : "lejiedi",
+      "name" : "乐捷递",
+      "tel" : "400-618-1400",
+      "web" : "www.ljd365.com"
+    },
+    {
+      "code" : "zhongxinda",
+      "name" : "忠信达",
+      "tel" : "400-646-6665",
+      "web" : "www.zhongxind.cn\\index.asp"
+    },
+    {
+      "code" : "zhimakaimen",
+      "name" : "芝麻开门",
+      "tel" : "400-105-6056",
+      "web" : "www.zmkmex.com"
+    },
+    {
+      "code" : "saiaodi",
+      "name" : "赛澳递",
+      "tel" : "4000-345-888",
+      "web" : "www.51cod.com "
+    },
+    {
+      "code" : "haihongwangsong",
+      "name" : "海红网送",
+      "tel" : "400-632-9988",
+      "web" : "www.haihongwangsong.com\\index.asp"
+    },
+    {
+      "code" : "gongsuda",
+      "name" : "共速达",
+      "tel" : "400-111-0005",
+      "web" : "www.gongsuda.com"
+    },
+    {
+      "code" : "jialidatong",
+      "name" : "嘉里大通",
+      "tel" : "400-610-3188",
+      "web" : "www.kerryeas.com"
+    },
+    {
+      "code" : "ocs",
+      "name" : "OCS",
+      "tel" : "400-118-8588",
+      "web" : "www.ocschina.com"
+    },
+    {
+      "code" : "usps",
+      "name" : "USPS",
+      "tel" : "800-275-8777",
+      "web" : "https:\\\\zh.usps.com"
+    },
+    {
+      "code" : "meiguokuaidi",
+      "name" : "美国",
+      "tel" : "888-611-1888",
+      "web" : "www.us-ex.com"
+    },
+    {
+      "code" : "lijisong",
+      "name" : "立即送",
+      "tel" : "400-028-5666",
+      "web" : "www.cdljs.com"
+    },
+    {
+      "code" : "yinjiesudi",
+      "name" : "银捷",
+      "tel" : "0755-88999000",
+      "web" : "www.sjfd-express.com"
+    },
+    {
+      "code" : "menduimen",
+      "name" : "门对门",
+      "tel" : "400-700-7676",
+      "web" : "www.szdod.com"
+    },
+    {
+      "code" : "disifang",
+      "name" : "递四方",
+      "tel" : "0755-33933895",
+      "web" : "www.4px.com"
+    },
+    {
+      "code" : "zhengzhoujianhua",
+      "name" : "郑州建华",
+      "tel" : "0371-65995266",
+      "web" : "www.zzjhtd.com"
+    },
+    {
+      "code" : "hebeijianhua",
+      "name" : "河北建华",
+      "tel" : "0311-86123186",
+      "web" : "116.255.133.172\\hebeiwebsite\\index.jsp"
+    },
+    {
+      "code" : "weitepai",
+      "name" : "微特派",
+      "tel" : "400-6363-000",
+      "web" : "www.vtepai.com"
+    },
+    {
+      "code" : "dhlde",
+      "name" : "dhlde",
+      "tel" : "+49 (0) 180 5 345300-1*",
+      "web" : "www.dhl.de\\en.html"
+    },
+    {
+      "code" : "tonghetianxia",
+      "name" : "通和天下",
+      "tel" : "400-0056-516 ",
+      "web" : "www.cod56.com"
+    },
+    {
+      "code" : "emsguoji",
+      "name" : "EMS-国际件",
+      "tel" : "11183",
+      "web" : "www.ems.com.cn"
+    },
+    {
+      "code" : "fedexus",
+      "name" : "FedEx",
+      "tel" : "800-463-3339",
+      "web" : "www.fedex.com\\us"
+    },
+    {
+      "code" : "fengxingtianxia",
+      "name" : "风行天下",
+      "tel" : "4000-404-909",
+      "web" : "www.fxtxsy.com"
+    },
+    {
+      "code" : "kangliwuliu",
+      "name" : "康力",
+      "tel" : "400-156-5156 ",
+      "web" : "www.kangliex.com"
+    },
+    {
+      "code" : "kuayue",
+      "name" : "跨越",
+      "tel" : "4008-098-098 ",
+      "web" : "www.ky-express.com"
+    },
+    {
+      "code" : "haimengsudi",
+      "name" : "海盟",
+      "tel" : "400-080-6369 ",
+      "web" : "www.hm-express.com"
+    },
+    {
+      "code" : "shenganwuliu",
+      "name" : "圣安",
+      "tel" : "4006-618-169 ",
+      "web" : "www.sa56.net"
+    },
+    {
+      "code" : "yitongfeihong",
+      "name" : "一统飞鸿",
+      "tel" : "61501533-608",
+      "web" : "218.97.241.58:8080\\yitongfeihongweb\\common?action=toindex"
+    },
+    {
+      "code" : "zhongsukuaidi",
+      "name" : "中速",
+      "tel" : "11183",
+      "web" : "www.ems.com.cn\\mainservice\\ems\\zhong_su_guo_ji_kuai_jian.html"
+    },
+    {
+      "code" : "neweggozzo",
+      "name" : "新蛋奥硕",
+      "tel" : "400-820-4400",
+      "web" : "www.ozzo.com.cn"
+    },
+    {
+      "code" : "ontrac",
+      "name" : "OnTrac",
+      "tel" : "800-334-5000",
+      "web" : "www.ontrac.com"
+    },
+    {
+      "code" : "sevendays",
+      "name" : "七天连锁",
+      "tel" : "400-882-1202",
+      "web" : "www.92856.cn"
+    },
+    {
+      "code" : "mingliangwuliu",
+      "name" : "明亮",
+      "tel" : "400-035-6568",
+      "web" : "www.szml56.com"
+    },
+    {
+      "code" : "vancl",
+      "name" : "凡客",
+      "tel" : "400-600-6888",
+      "web" : "www.vancl.com"
+    },
+    {
+      "code" : "huaqikuaiyun",
+      "name" : "华企",
+      "tel" : "400-806-8111,13055209678",
+      "web" : null
+    },
+    {
+      "code" : "city100",
+      "name" : "城市100",
+      "tel" : "010-52932760 ",
+      "web" : null
+    },
+    {
+      "code" : "sxhongmajia",
+      "name" : "红马甲",
+      "tel" : "0351-5225858",
+      "web" : "www.hmj.com.cn"
+    },
+    {
+      "code" : "suijiawuliu",
+      "name" : "穗佳",
+      "tel" : "400-880-9771",
+      "web" : "www.suijiawl.com"
+    },
+    {
+      "code" : "feibaokuaidi",
+      "name" : "飞豹",
+      "tel" : "400-000-5566",
+      "web" : "www.ztky.com\\feibao\\KJCX.aspx"
+    },
+    {
+      "code" : "chuanxiwuliu",
+      "name" : "传喜",
+      "tel" : "400-777-5656 ",
+      "web" : "www.cxcod.com"
+    },
+    {
+      "code" : "jietekuaidi",
+      "name" : "捷特",
+      "tel" : "400-820-8585",
+      "web" : "www.jet185.com"
+    },
+    {
+      "code" : "longlangkuaidi",
+      "name" : "隆浪",
+      "tel" : "021-31171576,61552015",
+      "web" : "www.56l6.com"
+    },
+    {
+      "code" : "emsen",
+      "name" : "EMS-英文",
+      "tel" : "11183",
+      "web" : "www.ems.com.cn\\english.html"
+    },
+    {
+      "code" : "zhongtianwanyun",
+      "name" : "中天万运",
+      "tel" : "400-0056-001",
+      "web" : "www.ztwy56.cn"
+    },
+    {
+      "code" : "hkpost",
+      "name" : "香港邮政",
+      "tel" : "(852) 2921 2222",
+      "web" : "www.hongkongpost.hk"
+    },
+    {
+      "code" : "bangsongwuliu",
+      "name" : "邦送",
+      "tel" : "021-20965696",
+      "web" : "express.banggo.com"
+    },
+    {
+      "code" : "guotongkuaidi",
+      "name" : "国通",
+      "tel" : "400-111-1123",
+      "web" : "www.gto365.com"
+    },
+    {
+      "code" : "auspost",
+      "name" : "auspost",
+      "tel" : "0061-3-88479045",
+      "web" : "auspost.com.au"
+    },
+    {
+      "code" : "canpost",
+      "name" : "加拿大邮政",
+      "tel" : "416-979-8822",
+      "web" : "www.canadapost.ca"
+    },
+    {
+      "code" : "canpostfr",
+      "name" : "加拿大邮政",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "upsen",
+      "name" : "UPS-全球件",
+      "tel" : "1-800-742-5877 ",
+      "web" : "www.ups.com"
+    },
+    {
+      "code" : "tnten",
+      "name" : "TNT-全球件",
+      "tel" : null,
+      "web" : "www.tnt.com"
+    },
+    {
+      "code" : "dhlen",
+      "name" : "DHL",
+      "tel" : null,
+      "web" : "www.dhl.com\\en.html"
+    },
+    {
+      "code" : "shunfengen",
+      "name" : "顺丰-美国件",
+      "tel" : "1-855-901-1133",
+      "web" : "www.sf-express.com\\us\\en"
+    },
+    {
+      "code" : "huiqiangkuaidi",
+      "name" : "汇强",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "xiyoutekuaidi",
+      "name" : "希优特",
+      "tel" : "4008400365",
+      "web" : "www.cod365.com"
+    },
+    {
+      "code" : "haoshengwuliu",
+      "name" : "昊盛",
+      "tel" : "400-186-5566",
+      "web" : "www.hs-express.cn"
+    },
+    {
+      "code" : "shangcheng",
+      "name" : "尚橙",
+      "tel" : "400-890-0101",
+      "web" : "www.suncharms.net"
+    },
+    {
+      "code" : "yilingsuyun",
+      "name" : "亿领",
+      "tel" : "400-1056-400",
+      "web" : "www.yelee.com.cn"
+    },
+    {
+      "code" : "dayangwuliu",
+      "name" : "大洋",
+      "tel" : "400-820-0088",
+      "web" : "www.dayang365.cn"
+    },
+    {
+      "code" : "didasuyun",
+      "name" : "递达",
+      "tel" : "400-687-8123",
+      "web" : "www.dida.hk"
+    },
+    {
+      "code" : "yitongda",
+      "name" : "易通达",
+      "tel" : "0898-65339299",
+      "web" : "www.etd365.com"
+    },
+    {
+      "code" : "youbijia",
+      "name" : "邮必佳",
+      "tel" : "400-687-8123",
+      "web" : "www.ubjia.com"
+    },
+    {
+      "code" : "yishunhang",
+      "name" : "亿顺航",
+      "tel" : "4006-018-268 ",
+      "web" : "www.igoex.com"
+    },
+    {
+      "code" : "feihukuaidi",
+      "name" : "飞狐",
+      "tel" : "010-51389299",
+      "web" : "www.feihukuaidi.com"
+    },
+    {
+      "code" : "xiaoxiangchenbao",
+      "name" : "潇湘晨报",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "balunzhi",
+      "name" : "巴伦支",
+      "tel" : "400-885-6561",
+      "web" : "cnbd.hendari.com"
+    },
+    {
+      "code" : "aramex",
+      "name" : "Aramex",
+      "tel" : "4006318388",
+      "web" : "www.aramex.com"
+    },
+    {
+      "code" : "minshengkuaidi",
+      "name" : "闽盛",
+      "tel" : "0592-3725988",
+      "web" : "www.xmms-express.com"
+    },
+    {
+      "code" : "syjiahuier",
+      "name" : "佳惠尔",
+      "tel" : "024-23904138",
+      "web" : "www.jhekd.com"
+    },
+    {
+      "code" : "minbangsudi",
+      "name" : "民邦",
+      "tel" : "0769-81515303",
+      "web" : "www.mbex168.com"
+    },
+    {
+      "code" : "shanghaikuaitong",
+      "name" : "上海快通",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "xiaohongmao",
+      "name" : "北青小红帽",
+      "tel" : "010-67756666",
+      "web" : "www.kuaidi100.com\\all\\xiaohongmao.shtml"
+    },
+    {
+      "code" : "gsm",
+      "name" : "GSM",
+      "tel" : "021-64656011 ",
+      "web" : "www.gsmnton.com "
+    },
+    {
+      "code" : "annengwuliu",
+      "name" : "安能",
+      "tel" : "400-104-0088",
+      "web" : "www.ane56.com"
+    },
+    {
+      "code" : "kcs",
+      "name" : "KCS",
+      "tel" : "800-858-5590",
+      "web" : "www.kcs56.com"
+    },
+    {
+      "code" : "citylink",
+      "name" : "City-Link",
+      "tel" : "603-5565 8399",
+      "web" : "www.citylinkexpress.com"
+    },
+    {
+      "code" : "diantongkuaidi",
+      "name" : "店通",
+      "tel" : "021-20917385,66282857",
+      "web" : "www.shdtkd.com.cn"
+    },
+    {
+      "code" : "fanyukuaidi",
+      "name" : "凡宇",
+      "tel" : "4006-580-358 ",
+      "web" : "www.fanyu56.com.cn"
+    },
+    {
+      "code" : "pingandatengfei",
+      "name" : "平安达腾飞",
+      "tel" : "4006-230-009",
+      "web" : "www.padtf.com"
+    },
+    {
+      "code" : "guangdongtonglu",
+      "name" : "广东通路",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "zhongruisudi",
+      "name" : "中睿",
+      "tel" : "400-0375-888",
+      "web" : "www.zorel.cn"
+    },
+    {
+      "code" : "kuaidawuliu",
+      "name" : "快达",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "jiajikuaidi",
+      "name" : "佳吉",
+      "tel" : "400-820-5566",
+      "web" : "www.jiaji.com"
+    },
+    {
+      "code" : "adp",
+      "name" : "ADP",
+      "tel" : "1588-1330",
+      "web" : "www.adpair.co.kr"
+    },
+    {
+      "code" : "fardarww",
+      "name" : "颿达",
+      "tel" : "0755-27332618",
+      "web" : "www.fardar.com"
+    },
+    {
+      "code" : "fandaguoji",
+      "name" : "颿达国际",
+      "tel" : "0755-27332618",
+      "web" : "www.fardar.com"
+    },
+    {
+      "code" : "shlindao",
+      "name" : "林道",
+      "tel" : "4008-200-112",
+      "web" : "www.ldxpress.com"
+    },
+    {
+      "code" : "sinoex",
+      "name" : "中外运",
+      "tel" : "010-8041 8611",
+      "web" : "www.sinoex.com.cn"
+    },
+    {
+      "code" : "zhongwaiyun",
+      "name" : "中外运速递",
+      "tel" : "010-8041 8611",
+      "web" : "www.sinoex.com.cn\\index.aspx"
+    },
+    {
+      "code" : "dechuangwuliu",
+      "name" : "深圳德创",
+      "tel" : "4006-989-833",
+      "web" : "www.dc56.cn"
+    },
+    {
+      "code" : "ldxpres",
+      "name" : "林道国际快递-英文",
+      "tel" : "800-820-1470 ",
+      "web" : "www.ldxpress.com"
+    },
+    {
+      "code" : "ruidianyouzheng",
+      "name" : "瑞典邮政",
+      "tel" : "+46 8 23 22 20",
+      "web" : "www.posten.se\\en"
+    },
+    {
+      "code" : "postenab",
+      "name" : "Posten AB",
+      "tel" : "+46 771 33 33 10",
+      "web" : "www.posten.se\\en"
+    },
+    {
+      "code" : "nuoyaao",
+      "name" : "偌亚奥",
+      "tel" : "4008 871 871",
+      "web" : "www.royaleinternational.com"
+    },
+    {
+      "code" : "chengjisudi",
+      "name" : "城际",
+      "tel" : "4000-523-525 ",
+      "web" : "chengji-express.com"
+    },
+    {
+      "code" : "xianglongyuntong",
+      "name" : "祥龙运通",
+      "tel" : "4008-908-908",
+      "web" : "www.ldl.com.cn"
+    },
+    {
+      "code" : "pinsuxinda",
+      "name" : "品速心达",
+      "tel" : "400-800-3693 ",
+      "web" : "www.psxd88.com"
+    },
+    {
+      "code" : "yuxinwuliu",
+      "name" : "宇鑫",
+      "tel" : "0371-66368798",
+      "web" : "www.yx56.cn"
+    },
+    {
+      "code" : "peixingwuliu",
+      "name" : "陪行物流",
+      "tel" : "400-993-0555",
+      "web" : "www.peixingexpress.com"
+    },
+    {
+      "code" : "hutongwuliu",
+      "name" : "户通物流",
+      "tel" : "400-060-1656",
+      "web" : "www.cnhtwl.com"
+    },
+    {
+      "code" : "xianchengliansudi",
+      "name" : "西安城联速递",
+      "tel" : "029-89113508",
+      "web" : "www.city-link.net.cn"
+    },
+    {
+      "code" : "yujiawuliu",
+      "name" : "煜嘉物流",
+      "tel" : null,
+      "web" : "www.yujia56.net"
+    },
+    {
+      "code" : "yiqiguojiwuliu",
+      "name" : "一柒国际物流",
+      "tel" : "001-(971) 238-9990",
+      "web" : "www.17htb.com"
+    },
+    {
+      "code" : "fedexcn",
+      "name" : "Fedex-国际件-中文",
+      "tel" : "400-889-1888",
+      "web" : "www.fedex.com\\cn\\index.html"
+    },
+    {
+      "code" : "lianbangkuaidien",
+      "name" : "联邦",
+      "tel" : "400-889-1888",
+      "web" : "cndxp.apac.fedex.com\\tracking\\track.html"
+    },
+    {
+      "code" : "zhongtongphone",
+      "name" : "中通（带电话）",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "saiaodimmb",
+      "name" : "赛澳递for买卖宝",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "shanghaiwujiangmmb",
+      "name" : "上海无疆for买卖宝",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "singpost",
+      "name" : "新加坡邮政",
+      "tel" : null,
+      "web" : "www.singpost.com"
+    },
+    {
+      "code" : "yinsu",
+      "name" : "音素快运",
+      "tel" : "400-007-1118",
+      "web" : "www.yskd168.com"
+    },
+    {
+      "code" : "ndwl",
+      "name" : "南方传媒物流",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "sucheng",
+      "name" : "速呈宅配",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "chuangyi",
+      "name" : "创一快递",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "dianyi",
+      "name" : "云南滇驿物流",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "cqxingcheng",
+      "name" : "重庆星程快递",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "scxingcheng",
+      "name" : "四川星程快递",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "gzxingcheng",
+      "name" : "贵州星程快递",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "ytkd",
+      "name" : "运通中港快递",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "gatien",
+      "name" : "gati官网英文通道",
+      "tel" : "4000-804-284",
+      "web" : "www.gati.com"
+    },
+    {
+      "code" : "gaticn",
+      "name" : "gati官网中文通道",
+      "tel" : "4000-804-284 ",
+      "web" : "www.gaticn.com"
+    },
+    {
+      "code" : "jcex",
+      "name" : "jcex官网通道",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "peex",
+      "name" : "派尔快递官网通道",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "kxda",
+      "name" : "凯信达官网通道",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "advancing",
+      "name" : "安达信官网通道",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "huiwen",
+      "name" : "汇文官网通道",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "yxexpress",
+      "name" : "亿翔官网通道",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "donghong",
+      "name" : "东红合作通道",
+      "tel" : "4000-081-556",
+      "web" : "www.donghong56.com"
+    },
+    {
+      "code" : "feiyuanvipshop",
+      "name" : "飞远配送",
+      "tel" : "4007-031-313",
+      "web" : "www.fyps.cn"
+    },
+    {
+      "code" : "hlyex",
+      "name" : "好运来",
+      "tel" : "020-86293333",
+      "web" : "www.hlyex.com"
+    },
+    {
+      "code" : "dpexen",
+      "name" : "Toll Global Express",
+      "tel" : null,
+      "web" : "www.dpex.com"
+    },
+    {
+      "code" : "zengyisudi",
+      "name" : "增益速递",
+      "tel" : "4008-456-789 ",
+      "web" : "www.zeny-express.com"
+    },
+    {
+      "code" : "kuaiyouda",
+      "name" : "四川快优达速递",
+      "tel" : "4006-068-555",
+      "web" : "www.sckyd.net"
+    },
+    {
+      "code" : "riyuwuliu",
+      "name" : "日昱物流",
+      "tel" : "4008-820-800",
+      "web" : "www.rywl.cn"
+    },
+    {
+      "code" : "sutongwuliu",
+      "name" : "速通物流",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "nanjingshengbang",
+      "name" : "晟邦物流",
+      "tel" : "400-666-6066",
+      "web" : "www.3856.cc"
+    },
+    {
+      "code" : "anposten",
+      "name" : "爱尔兰邮政",
+      "tel" : "01-7057600 ",
+      "web" : "www.anpost.ie\\AnPost"
+    },
+    {
+      "code" : "japanposten",
+      "name" : "日本邮政JapanPost",
+      "tel" : "+81 0570-046111",
+      "web" : "www.post.japanpost.jp\\english\\index.html "
+    },
+    {
+      "code" : "postdanmarken",
+      "name" : "丹麦邮政",
+      "tel" : "+45 80 20 70 30 ",
+      "web" : "www.postdanmark.dk\\en\\Pages\\home.aspx "
+    },
+    {
+      "code" : "brazilposten",
+      "name" : "巴西邮政Brazil Post",
+      "tel" : "+55 61 3003 0100",
+      "web" : "www.correios.com.br"
+    },
+    {
+      "code" : "postnlcn",
+      "name" : "荷兰邮政",
+      "tel" : "34819",
+      "web" : "www.postnl.post"
+    },
+    {
+      "code" : "postnl",
+      "name" : "荷兰邮政",
+      "tel" : "34819",
+      "web" : "www.postnl.post\\details"
+    },
+    {
+      "code" : "emsukrainecn",
+      "name" : "乌克兰EMS",
+      "tel" : "+38 044 234-73-84",
+      "web" : "dpsz.ua\\en"
+    },
+    {
+      "code" : "emsukraine",
+      "name" : "EMS Ukraine",
+      "tel" : "+38 044 234-73-84",
+      "web" : "dpsz.ua\\en"
+    },
+    {
+      "code" : "ukrpostcn",
+      "name" : "乌克兰邮政包裹",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "ukrpost",
+      "name" : "UkrPost",
+      "tel" : "+380 (0) 800-500-440",
+      "web" : "www.ukrposhta.com"
+    },
+    {
+      "code" : "haihongmmb",
+      "name" : "海红for买卖宝",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "fedexuk",
+      "name" : "FedEx UK",
+      "tel" : "+ 44 2476 706 660",
+      "web" : "www.fedex.com\\gb\\ukservices"
+    },
+    {
+      "code" : "fedexukcn",
+      "name" : "FedEx-英国件",
+      "tel" : "+ 44 2476 706 660",
+      "web" : "www.fedex.com\\gb\\ukservices"
+    },
+    {
+      "code" : "dingdong",
+      "name" : "叮咚快递",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "dpd",
+      "name" : "DPD",
+      "tel" : "+31 20 480 2900",
+      "web" : "www.dpd.com"
+    },
+    {
+      "code" : "upsfreight",
+      "name" : "UPS Freight",
+      "tel" : "+1 800-333-7400",
+      "web" : "ltl.upsfreight.com"
+    },
+    {
+      "code" : "abf",
+      "name" : "ABF",
+      "tel" : "(479) 785-6486",
+      "web" : "www.abfs.com"
+    },
+    {
+      "code" : "purolator",
+      "name" : "Purolator",
+      "tel" : "-8754",
+      "web" : "www.purolator.com"
+    },
+    {
+      "code" : "bpost",
+      "name" : "Bpost",
+      "tel" : "+32 (0)2 278 50 90",
+      "web" : "www.bpostinternational.com"
+    },
+    {
+      "code" : "bpostinter",
+      "name" : "bpostint",
+      "tel" : "+32 (0)2 278 50 90",
+      "web" : "www.bpostinternational.com"
+    },
+    {
+      "code" : "lasership",
+      "name" : "LaserShip",
+      "tel" : "+1 (800) 527-3764",
+      "web" : "www.lasership.com"
+    },
+    {
+      "code" : "parcelforce",
+      "name" : "Parcel Force",
+      "tel" : "08448 00 44 66",
+      "web" : "www.parcelforce.com"
+    },
+    {
+      "code" : "parcelforcecn",
+      "name" : "英国邮政大包EMS",
+      "tel" : "08448 00 44 66",
+      "web" : "www.parcelforce.com"
+    },
+    {
+      "code" : "yodel",
+      "name" : "YODEL",
+      "tel" : "+44 800 0152 662",
+      "web" : "www.myyodel.co.uk"
+    },
+    {
+      "code" : "dhlnetherlands",
+      "name" : "DHL Netherlands",
+      "tel" : "+31 26-324 6700",
+      "web" : "www.dhl.nl"
+    },
+    {
+      "code" : "myhermes",
+      "name" : "MyHermes",
+      "tel" : "+44 844 543 7000",
+      "web" : "https:\\\\www.myhermes.co.uk"
+    },
+    {
+      "code" : "dpdgermany",
+      "name" : "DPD Germany",
+      "tel" : "+49 01806 373 200",
+      "web" : "https:\\\\www.dpd.com\\de\\(portal)\\de\\(rememberCountry)\\0"
+    },
+    {
+      "code" : "fastway",
+      "name" : "Fastway Ireland",
+      "tel" : "+353 1 4242 900",
+      "web" : "www.fastway.ie\\index.php"
+    },
+    {
+      "code" : "chronopostfra",
+      "name" : "Chronopost France",
+      "tel" : "+33 (0) 969 391 391",
+      "web" : "www.chronopost.fr"
+    },
+    {
+      "code" : "selektvracht",
+      "name" : "Selektvracht",
+      "tel" : "+31 0900-2222120",
+      "web" : "www.selektvracht.nl"
+    },
+    {
+      "code" : "lanhukuaidi",
+      "name" : "蓝弧快递",
+      "tel" : "4000661646",
+      "web" : "www.lanhukd.com"
+    },
+    {
+      "code" : "belgiumpost",
+      "name" : "Belgium Post",
+      "tel" : "+32 2 276 22 74",
+      "web" : "www.bpost.be"
+    },
+    {
+      "code" : "upsmailinno",
+      "name" : "UPS Mail Innovations",
+      "tel" : "+1 800-500-2224",
+      "web" : "www.upsmailinnovations.com"
+    },
+    {
+      "code" : "postennorge",
+      "name" : "Posten Norge",
+      "tel" : "+47 21316260",
+      "web" : "www.posten.no\\en"
+    },
+    {
+      "code" : "swisspostcn",
+      "name" : "瑞士邮政",
+      "tel" : "41848888888",
+      "web" : "https:\\\\www.post.ch\\de\\privat?wt_shortcut=www-swisspost-com&WT.mc_id=shortcut_www-swisspost-com"
+    },
+    {
+      "code" : "swisspost",
+      "name" : "Swiss Post",
+      "tel" : "+41 848 888 888",
+      "web" : "www.post.ch\\en"
+    },
+    {
+      "code" : "royalmailcn",
+      "name" : "英国邮政小包",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "royalmail",
+      "name" : "Royal Mail",
+      "tel" : "+44 1752387112",
+      "web" : "www.royalmail.com"
+    },
+    {
+      "code" : "dhlbenelux",
+      "name" : "DHL Benelux",
+      "tel" : "+31 26-324 6700",
+      "web" : "www.dhl.nl\\nl.html"
+    },
+    {
+      "code" : "novaposhta",
+      "name" : "Nova Poshta",
+      "tel" : "+7 (0) 800 500 609",
+      "web" : "novaposhta.ua"
+    },
+    {
+      "code" : "dhlpoland",
+      "name" : "DHL Poland",
+      "tel" : "+48 42 6 345 345",
+      "web" : "www.dhl.com.pl\\pl.html"
+    },
+    {
+      "code" : "estes",
+      "name" : "Estes",
+      "tel" : "1-866-378-3748",
+      "web" : "www.estes-express.com"
+    },
+    {
+      "code" : "tntuk",
+      "name" : "TNT UK",
+      "tel" : "+44 0800 100 600",
+      "web" : "www.tnt.com\\portal\\location\\en.html"
+    },
+    {
+      "code" : "deltec",
+      "name" : "Deltec Courier",
+      "tel" : "+44 (0) 20 8569 6767",
+      "web" : "https:\\\\www.deltec-courier.com"
+    },
+    {
+      "code" : "opek",
+      "name" : "OPEK",
+      "tel" : "+48 22 732 79 99",
+      "web" : "www.opek.com.pl"
+    },
+    {
+      "code" : "dpdpoland",
+      "name" : "DPD Poland",
+      "tel" : "+48 801 400 373",
+      "web" : "www.dpd.com.pl"
+    },
+    {
+      "code" : "italysad",
+      "name" : "Italy SDA",
+      "tel" : "+39 199 113366",
+      "web" : "wwww.sda.it"
+    },
+    {
+      "code" : "mrw",
+      "name" : "MRW",
+      "tel" : "+34 902 300 402",
+      "web" : "www.mrw.es"
+    },
+    {
+      "code" : "chronopostport",
+      "name" : "Chronopost Portugal",
+      "tel" : "+351 707 20 28 28",
+      "web" : "chronopost.pt"
+    },
+    {
+      "code" : "correosdees",
+      "name" : "Correos de Espa?a",
+      "tel" : "+34 902197197",
+      "web" : "www.correos.es"
+    },
+    {
+      "code" : "directlink",
+      "name" : "Direct Link",
+      "tel" : "+1 (908) 289-0703",
+      "web" : "www.directlink.com"
+    },
+    {
+      "code" : "eltahell",
+      "name" : "ELTA Hellenic Post",
+      "tel" : "+30 801 11 83000",
+      "web" : "https:\\\\www.elta-courier.gr"
+    },
+    {
+      "code" : "ceskaposta",
+      "name" : "ceskaposta",
+      "tel" : "+420 840 111 244",
+      "web" : "www.ceskaposta.cz\\index"
+    },
+    {
+      "code" : "siodemka",
+      "name" : "Siodemka",
+      "tel" : "+48 22 777 77 77",
+      "web" : "www.siodemka.com"
+    },
+    {
+      "code" : "seur",
+      "name" : "International Seur",
+      "tel" : "+34 93 336 85 85",
+      "web" : "www.seur.com"
+    },
+    {
+      "code" : "jiuyicn",
+      "name" : "久易快递",
+      "tel" : "021-64206088",
+      "web" : "www.jiuyicn.com"
+    },
+    {
+      "code" : "hrvatska",
+      "name" : "Hrvatska Posta",
+      "tel" : "+385 0800 303 304",
+      "web" : "www.posta.hr"
+    },
+    {
+      "code" : "bulgarian",
+      "name" : "Bulgarian Posts",
+      "tel" : "+3592\\949 3280",
+      "web" : "www.bgpost.bg"
+    },
+    {
+      "code" : "portugalseur",
+      "name" : "Portugal Seur",
+      "tel" : "+351 707 50 10 10",
+      "web" : "www.seur.com"
+    },
+    {
+      "code" : "ecfirstclass",
+      "name" : "EC-Firstclass",
+      "tel" : "+86 4006 988 223",
+      "web" : "www.ec-firstclass.org\\Details.aspx"
+    },
+    {
+      "code" : "dtdcindia",
+      "name" : "DTDC India",
+      "tel" : "+91 33004444",
+      "web" : "dtdc.com"
+    },
+    {
+      "code" : "safexpress",
+      "name" : "Safexpress",
+      "tel" : "+91 11 26783281",
+      "web" : "www.safexpress.com"
+    },
+    {
+      "code" : "koreapost",
+      "name" : "Korea Post",
+      "tel" : "+82 2 2195 1114",
+      "web" : "www.koreapost.go.kr\\kpost\\main\\index.jsp"
+    },
+    {
+      "code" : "tntau",
+      "name" : "TNT Australia",
+      "tel" : "+61 13 11 50",
+      "web" : "https:\\\\www.tntexpress.com.au"
+    },
+    {
+      "code" : "thailand",
+      "name" : "Thailand Thai Post",
+      "tel" : "0 2573 5463",
+      "web" : "www.thailandpost.co.th "
+    },
+    {
+      "code" : "skynetmalaysia",
+      "name" : "SkyNet Malaysia",
+      "tel" : "+60 3- 56239090",
+      "web" : "www.skynet.com.my"
+    },
+    {
+      "code" : "malaysiapost",
+      "name" : "Malaysia Post(Registered)",
+      "tel" : "+603 27279100",
+      "web" : "www.pos.com.my"
+    },
+    {
+      "code" : "malaysiaems",
+      "name" : "Malaysia Post (parcel\tEMS)",
+      "tel" : "+603 27279100",
+      "web" : "www.pos.com.my"
+    },
+    {
+      "code" : "jd",
+      "name" : "京东",
+      "tel" : "400-603-3600",
+      "web" : "www.jd-ex.com"
+    },
+    {
+      "code" : "saudipost",
+      "name" : "Saudi Post",
+      "tel" : "+966 9200 05700",
+      "web" : "www.sp.com.sa"
+    },
+    {
+      "code" : "southafrican",
+      "name" : "South African Post Office",
+      "tel" : "+27 0860 111 502",
+      "web" : "www.postoffice.co.za"
+    },
+    {
+      "code" : "ocaargen",
+      "name" : "OCA Argentina",
+      "tel" : "+34 800-999-7700",
+      "web" : "www.oca.com.ar"
+    },
+    {
+      "code" : "nigerianpost",
+      "name" : "Nigerian Postal",
+      "tel" : "234-09-3149531",
+      "web" : "www.nipost.gov.ng"
+    },
+    {
+      "code" : "chile",
+      "name" : "Correos Chile",
+      "tel" : "+562 600 950 2020",
+      "web" : "www.correos.cl"
+    },
+    {
+      "code" : "israelpost",
+      "name" : "Israel Post",
+      "tel" : "+972 2 629 0691",
+      "web" : "www.israelpost.co.il"
+    },
+    {
+      "code" : "tollpriority",
+      "name" : "Toll Priority",
+      "tel" : "+61 13 15 31",
+      "web" : "https:\\\\online.toll.com.au"
+    },
+    {
+      "code" : "estafeta",
+      "name" : "Estafeta",
+      "tel" : "+52 1-800-378-2338",
+      "web" : "rastreo3.estafeta.com"
+    },
+    {
+      "code" : "gdkd",
+      "name" : "港快速递",
+      "tel" : "400-11-33333",
+      "web" : "www.gksd.com"
+    },
+    {
+      "code" : "mexico",
+      "name" : "Correos de Mexico",
+      "tel" : "+52 01 800 701 7000",
+      "web" : "www.correosdemexico.gob.mx"
+    },
+    {
+      "code" : "romanian",
+      "name" : "Posta Romanian",
+      "tel" : "+40 021 9393 111",
+      "web" : "www.posta-romana.ro\\posta-romana.html"
+    },
+    {
+      "code" : "tntitaly",
+      "name" : "TNT Italy",
+      "tel" : "+39 199 803 868",
+      "web" : "www.tnt.it"
+    },
+    {
+      "code" : "multipack",
+      "name" : "Mexico Multipack",
+      "tel" : "+52 1800 7023200",
+      "web" : "www.multipack.com.mx"
+    },
+    {
+      "code" : "portugalctt",
+      "name" : "Portugal CTT",
+      "tel" : "+351 707 26 26 26",
+      "web" : "www.ctt.pt"
+    },
+    {
+      "code" : "interlink",
+      "name" : "Interlink Express",
+      "tel" : "+44 8702 200 300",
+      "web" : "www.interlinkexpress.com"
+    },
+    {
+      "code" : "dpduk",
+      "name" : "DPD UK",
+      "tel" : "+44 845 9 300 350",
+      "web" : "www.dpd.co.uk"
+    },
+    {
+      "code" : "hzpl",
+      "name" : "华航快递",
+      "tel" : "400-697-0008",
+      "web" : "www.hz3pl.com"
+    },
+    {
+      "code" : "gatikwe",
+      "name" : "Gati-KWE",
+      "tel" : "+91 1800-180-4284",
+      "web" : "www.gatikwe.com"
+    },
+    {
+      "code" : "redexpress",
+      "name" : "Red Express",
+      "tel" : "+91 1800-123-2400",
+      "web" : "https:\\\\www.getsetred.net"
+    },
+    {
+      "code" : "mexicodenda",
+      "name" : "Mexico Senda Express",
+      "tel" : "+52 1800 833 93 00",
+      "web" : "www.sendaexpress.com.mx\\rastreo.asp#af"
+    },
+    {
+      "code" : "tcixps",
+      "name" : "TCI XPS",
+      "tel" : "18002000977",
+      "web" : "www.tcixps.com"
+    },
+    {
+      "code" : "hre",
+      "name" : "高铁速递",
+      "tel" : "400-999-7777",
+      "web" : "www.hre-e.com"
+    },
+    {
+      "code" : "speedpost",
+      "name" : "Singapore Speedpost",
+      "tel" : "+65 6222 5777",
+      "web" : "www.speedpost.com.sg"
+    },
+    {
+      "code" : "emsinten",
+      "name" : "EMS-国际件-英文",
+      "tel" : null,
+      "web" : "www.ems.com.cn"
+    },
+    {
+      "code" : "asendiausa",
+      "name" : "Asendia USA",
+      "tel" : "+1 610 461 3661",
+      "web" : "www.asendiausa.com"
+    },
+    {
+      "code" : "chronopostfren",
+      "name" : "Chronopost France",
+      "tel" : "+33 (0) 969 391 391",
+      "web" : "www.chronopost.fr"
+    },
+    {
+      "code" : "italiane",
+      "name" : "Poste Italiane Paccocelere",
+      "tel" : "+39 803 160",
+      "web" : "www.poste.it"
+    },
+    {
+      "code" : "gda",
+      "name" : "冠达快递",
+      "tel" : "400-990-0088",
+      "web" : "www.gda-e.com.cn"
+    },
+    {
+      "code" : "chukou1",
+      "name" : "出口易",
+      "tel" : "4006-988-223",
+      "web" : "www.chukou1.com"
+    },
+    {
+      "code" : "huangmajia",
+      "name" : "黄马甲",
+      "tel" : "029-96128",
+      "web" : "www.huangmajia.com"
+    },
+    {
+      "code" : "anlexpress",
+      "name" : "新干线快递",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "shipgce",
+      "name" : "飞洋快递",
+      "tel" : "001-877-387-9799",
+      "web" : "express.shipgce.com"
+    },
+    {
+      "code" : "xlobo",
+      "name" : "贝海国际速递",
+      "tel" : "086-400-082-2200",
+      "web" : "www.xlobo.com"
+    },
+    {
+      "code" : "emirates",
+      "name" : "阿联酋邮政",
+      "tel" : "600-599-999",
+      "web" : "www.epg.gov.ae"
+    },
+    {
+      "code" : "nsf",
+      "name" : "新顺丰（NSF）",
+      "tel" : "0064-9-2818966",
+      "web" : "www.nsf.co.nz"
+    },
+    {
+      "code" : "pakistan",
+      "name" : "巴基斯坦邮政",
+      "tel" : "（+92 51）926 00 37",
+      "web" : "ep.gov.pk"
+    },
+    {
+      "code" : "shiyunkuaidi",
+      "name" : "世运快递",
+      "tel" : "400-666-1111",
+      "web" : "www.sehoex.com"
+    },
+    {
+      "code" : "ucs",
+      "name" : "合众速递(UCS）",
+      "tel" : "024-31515566",
+      "web" : "www.ucsus.com"
+    },
+    {
+      "code" : "afghan",
+      "name" : "阿富汗邮政",
+      "tel" : "+93 20 2104075",
+      "web" : "track.afghanpost.gov.af"
+    },
+    {
+      "code" : "belpost",
+      "name" : "白俄罗斯",
+      "tel" : "+375 17 293 59 10",
+      "web" : "www.belpost.by"
+    },
+    {
+      "code" : "quantwl",
+      "name" : "全通快运",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "zhaijibian",
+      "name" : "宅急便",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "efs",
+      "name" : "efs",
+      "tel" : "0773-2308246",
+      "web" : "www.efspost.com"
+    },
+    {
+      "code" : "tntpostcn",
+      "name" : "tntpostcn",
+      "tel" : "+31（0）900 0570 ",
+      "web" : "parcels-uk.tntpost.com"
+    },
+    {
+      "code" : "gml",
+      "name" : "英脉物流",
+      "tel" : "400-880-5088",
+      "web" : "www.gml.cn"
+    },
+    {
+      "code" : "gtongsudi",
+      "name" : "广通速递",
+      "tel" : "4008015567",
+      "web" : "www.gto56.com "
+    },
+    {
+      "code" : "donghanwl",
+      "name" : "东瀚物流",
+      "tel" : "400-092-2229",
+      "web" : "www.donghanwl.com"
+    },
+    {
+      "code" : "rpx",
+      "name" : "rpx",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "rrs",
+      "name" : "日日顺物流",
+      "tel" : "400-800-9999",
+      "web" : "www.rrs.com\\wl\\fwwl"
+    },
+    {
+      "code" : "yamato",
+      "name" : "黑猫雅玛多",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "htongexpress",
+      "name" : "华通快运",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "kyrgyzpost",
+      "name" : "kyrgyzpost",
+      "tel" : null,
+      "web" : "www.posta.kg"
+    },
+    {
+      "code" : "latvia",
+      "name" : "拉脱维亚",
+      "tel" : null,
+      "web" : "www.pasts.lv"
+    },
+    {
+      "code" : "libanpost",
+      "name" : "黎巴嫩",
+      "tel" : "+961 1 629628",
+      "web" : "www.libanpost.com.lb"
+    },
+    {
+      "code" : "lithuania",
+      "name" : "立陶宛",
+      "tel" : "+370 700 55 400",
+      "web" : "www.post.lt"
+    },
+    {
+      "code" : "maldives",
+      "name" : "马尔代夫",
+      "tel" : "+960 331 5555",
+      "web" : "https:\\\\www.maldivespost.com\\store"
+    },
+    {
+      "code" : "malta",
+      "name" : "马耳他",
+      "tel" : "800 7 22 44",
+      "web" : "maltapost.com"
+    },
+    {
+      "code" : "macedonia",
+      "name" : "马其顿",
+      "tel" : null,
+      "web" : "www.posta.com.mk"
+    },
+    {
+      "code" : "newzealand",
+      "name" : "New Zealand Post",
+      "tel" : null,
+      "web" : "https:\\\\www.nzpost.co.nz"
+    },
+    {
+      "code" : "moldova",
+      "name" : "摩尔多瓦",
+      "tel" : "+373 - 22 270 044",
+      "web" : "www.posta.md"
+    },
+    {
+      "code" : "bangladesh",
+      "name" : "孟加拉国(EMS)",
+      "tel" : "9558006",
+      "web" : "www.bangladeshpost.gov.b"
+    },
+    {
+      "code" : "serbia",
+      "name" : "塞尔维亚",
+      "tel" : "0700 100 300",
+      "web" : "www.posta.rs"
+    },
+    {
+      "code" : "cypruspost",
+      "name" : "塞浦路斯",
+      "tel" : "77778013",
+      "web" : "www.mcw.gov.cy\\mcw\\postal\\dps.nsf\\index_en\\index_en?OpenDocument"
+    },
+    {
+      "code" : "tunisia",
+      "name" : "突尼斯",
+      "tel" : "(+216) 71 888 888 ",
+      "web" : "www.e-suivi.poste.tn"
+    },
+    {
+      "code" : "uzbekistan",
+      "name" : "乌兹别克斯坦",
+      "tel" : "(99871) 233 57 47",
+      "web" : "www.pochta.uz\\en"
+    },
+    {
+      "code" : "caledonia",
+      "name" : "新喀里多尼亚[法国]",
+      "tel" : null,
+      "web" : "www.opt.nc"
+    },
+    {
+      "code" : "republic",
+      "name" : "叙利亚",
+      "tel" : null,
+      "web" : "www.syrianpost.gov.sy"
+    },
+    {
+      "code" : "haypost",
+      "name" : "亚美尼亚",
+      "tel" : null,
+      "web" : "www.haypost.am"
+    },
+    {
+      "code" : "yemen",
+      "name" : "也门",
+      "tel" : null,
+      "web" : "www.post.ye"
+    },
+    {
+      "code" : "india",
+      "name" : "印度",
+      "tel" : "1800-11-2011",
+      "web" : "www.indiapost.gov.in"
+    },
+    {
+      "code" : "england",
+      "name" : "英国(大包\tEMS)",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "jordan",
+      "name" : "约旦",
+      "tel" : "-4292044",
+      "web" : "www.jordanpost.com.jo"
+    },
+    {
+      "code" : "vietnam",
+      "name" : "越南",
+      "tel" : "(+84) 1900 54 54 81",
+      "web" : "www.vnpost.vn"
+    },
+    {
+      "code" : "montenegro",
+      "name" : "黑山",
+      "tel" : null,
+      "web" : "www.postacg.me"
+    },
+    {
+      "code" : "correos",
+      "name" : "哥斯达黎加",
+      "tel" : null,
+      "web" : "https:\\\\www.correos.go.cr"
+    },
+    {
+      "code" : "xilaikd",
+      "name" : "西安喜来快递",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "greenland",
+      "name" : "格陵兰[丹麦]",
+      "tel" : null,
+      "web" : "sp.post.gl"
+    },
+    {
+      "code" : "phlpost",
+      "name" : "菲律宾",
+      "tel" : null,
+      "web" : "https:\\\\www.phlpost.gov.ph"
+    },
+    {
+      "code" : "ecuador",
+      "name" : "厄瓜多尔",
+      "tel" : "(593-2) 3829210",
+      "web" : "www.correosdelecuador.gob.ec"
+    },
+    {
+      "code" : "iceland",
+      "name" : "冰岛",
+      "tel" : null,
+      "web" : "www.postur.is"
+    },
+    {
+      "code" : "emonitoring",
+      "name" : "波兰",
+      "tel" : "801 333 444",
+      "web" : "www.poczta-polska.pl"
+    },
+    {
+      "code" : "albania",
+      "name" : "阿尔巴尼亚",
+      "tel" : null,
+      "web" : "www.postashqiptare.al"
+    },
+    {
+      "code" : "aruba",
+      "name" : "阿鲁巴[荷兰]",
+      "tel" : "+297 528-7637 ",
+      "web" : "www.postaruba.com"
+    },
+    {
+      "code" : "egypt",
+      "name" : "埃及",
+      "tel" : "23910011",
+      "web" : "www.egyptpost.org"
+    },
+    {
+      "code" : "ireland",
+      "name" : "爱尔兰",
+      "tel" : "+353 1850 57 58 59",
+      "web" : "www.anpost.ie\\AnPost"
+    },
+    {
+      "code" : "omniva",
+      "name" : "爱沙尼亚",
+      "tel" : null,
+      "web" : "https:\\\\www.omniva.ee"
+    },
+    {
+      "code" : "leopard",
+      "name" : "云豹国际货运",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "sinoairinex",
+      "name" : "中外运空运",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "hyk",
+      "name" : "上海昊宏国际货物",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "ckeex",
+      "name" : "城晓国际快递",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "hungary",
+      "name" : "匈牙利",
+      "tel" : "+36 1 421 7296 Search",
+      "web" : "posta.hu\\international"
+    },
+    {
+      "code" : "macao",
+      "name" : "澳门",
+      "tel" : null,
+      "web" : "www.macaupost.gov.mo"
+    },
+    {
+      "code" : "postserv",
+      "name" : "台湾",
+      "tel" : null,
+      "web" : "postserv.post.gov.tw"
+    },
+    {
+      "code" : "bjemstckj",
+      "name" : "北京EMS",
+      "tel" : "010-8417 9386",
+      "web" : "www.bj-cnpl.com\\webpage\\contactus.asp"
+    },
+    {
+      "code" : "kuaitao",
+      "name" : "快淘快递",
+      "tel" : "400-770-3370",
+      "web" : "www.4007703370.com"
+    },
+    {
+      "code" : "peru",
+      "name" : "秘鲁",
+      "tel" : "511-500",
+      "web" : "www.serpost.com.pe"
+    },
+    {
+      "code" : "indonesia",
+      "name" : "印度尼西亚EMS",
+      "tel" : "+62 21 161",
+      "web" : "ems.posindonesia.co.id"
+    },
+    {
+      "code" : "kazpost",
+      "name" : "哈萨克斯坦",
+      "tel" : "8 800 080 08 80",
+      "web" : "www.kazpost.kz\\en"
+    },
+    {
+      "code" : "lbbk",
+      "name" : "立白宝凯物流",
+      "tel" : "020-81258022",
+      "web" : "bkls.liby.com.cn"
+    },
+    {
+      "code" : "bqcwl",
+      "name" : "百千诚物流",
+      "tel" : "0755-2222 2232",
+      "web" : "WWW.1001000.COM"
+    },
+    {
+      "code" : "pfcexpress",
+      "name" : "皇家物流",
+      "tel" : "0755-29801942",
+      "web" : "www.pfcexpress.com"
+    },
+    {
+      "code" : "csuivi",
+      "name" : "法国(小包)",
+      "tel" : "+33 3631",
+      "web" : "www.colissimo.fr"
+    },
+    {
+      "code" : "austria",
+      "name" : "奥地利",
+      "tel" : "+43 810 010 100",
+      "web" : "www.post.at"
+    },
+    {
+      "code" : "ukraine",
+      "name" : "乌克兰(小包\t大包)",
+      "tel" : "+380 (0) 800-500-440",
+      "web" : "www.ukrposhta.com\\www\\upost_en.nsf"
+    },
+    {
+      "code" : "uganda",
+      "name" : "乌干达",
+      "tel" : null,
+      "web" : "www.ugapost.co.ug"
+    },
+    {
+      "code" : "azerbaijan",
+      "name" : "阿塞拜疆",
+      "tel" : null,
+      "web" : "www.azems.az\\en"
+    },
+    {
+      "code" : "finland",
+      "name" : "芬兰",
+      "tel" : "+358 200 71000",
+      "web" : "www.posti.fi\\english"
+    },
+    {
+      "code" : "slovak",
+      "name" : "斯洛伐克",
+      "tel" : "(+421) 48 437 87 77",
+      "web" : "www.posta.sk\\en"
+    },
+    {
+      "code" : "ethiopia",
+      "name" : "埃塞俄比亚",
+      "tel" : null,
+      "web" : "www.ethiopostal.com"
+    },
+    {
+      "code" : "luxembourg",
+      "name" : "卢森堡",
+      "tel" : "8002 8004 ",
+      "web" : "www.post.lu"
+    },
+    {
+      "code" : "mauritius",
+      "name" : "毛里求斯",
+      "tel" : "208 2851",
+      "web" : "www.mauritiuspost.mu"
+    },
+    {
+      "code" : "brunei",
+      "name" : "文莱",
+      "tel" : "673-2382888 ",
+      "web" : "www.post.gov.bn"
+    },
+    {
+      "code" : "quantium",
+      "name" : "Quantium",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "tanzania",
+      "name" : "坦桑尼亚",
+      "tel" : null,
+      "web" : "www.posta.co.tz"
+    },
+    {
+      "code" : "oman",
+      "name" : "阿曼",
+      "tel" : "24769925",
+      "web" : "www.omanpost.om"
+    },
+    {
+      "code" : "gibraltar",
+      "name" : "直布罗陀[英国]",
+      "tel" : null,
+      "web" : "www.post.gi"
+    },
+    {
+      "code" : "byht",
+      "name" : "博源恒通",
+      "tel" : "15834177000",
+      "web" : "www.56soft.com."
+    },
+    {
+      "code" : "vnpost",
+      "name" : "越南EMS",
+      "tel" : null,
+      "web" : "www.ems.com.vn\\default.aspx"
+    },
+    {
+      "code" : "anxl",
+      "name" : "安迅物流",
+      "tel" : "010-59288730",
+      "web" : "www.anxl.com.cn"
+    },
+    {
+      "code" : "dfpost",
+      "name" : "达方物流",
+      "tel" : "400 700 7049",
+      "web" : "www.dfpost.com"
+    },
+    {
+      "code" : "huoban",
+      "name" : "兰州伙伴物流",
+      "tel" : "0931-5345730\\32",
+      "web" : "www.lzhbwl.com"
+    },
+    {
+      "code" : "tianzong",
+      "name" : "天纵物流",
+      "tel" : "400-990-8816",
+      "web" : "www.tianzong56.cn"
+    },
+    {
+      "code" : "bohei",
+      "name" : "波黑",
+      "tel" : null,
+      "web" : "www.posta.ba\\pocetna\\2\\0\\0.html"
+    },
+    {
+      "code" : "bolivia",
+      "name" : "玻利维亚",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "cambodia",
+      "name" : "柬埔寨",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "bahrain",
+      "name" : "巴林",
+      "tel" : null,
+      "web" : "mot.gov.bh\\en"
+    },
+    {
+      "code" : "namibia",
+      "name" : "纳米比亚",
+      "tel" : "+264 61 201 3042",
+      "web" : "https:\\\\www.nampost.com.na"
+    },
+    {
+      "code" : "rwanda",
+      "name" : "卢旺达",
+      "tel" : null,
+      "web" : "i-posita.rw\\spip.php?article97"
+    },
+    {
+      "code" : "lesotho",
+      "name" : "莱索托",
+      "tel" : null,
+      "web" : "lesothopost.org.ls"
+    },
+    {
+      "code" : "kenya",
+      "name" : "肯尼亚",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "cameroon",
+      "name" : "喀麦隆",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "belize",
+      "name" : "伯利兹",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "paraguay",
+      "name" : "巴拉圭",
+      "tel" : null,
+      "web" : "www.correoparaguayo.gov.py"
+    },
+    {
+      "code" : "sfift",
+      "name" : "十方通物流",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "hnfy",
+      "name" : "飞鹰物流",
+      "tel" : "400-6291-666",
+      "web" : "www.hnfy56.com"
+    },
+    {
+      "code" : "iparcel",
+      "name" : "UPS i-parcle",
+      "tel" : "400-078-1183",
+      "web" : "www.i-parcel.com\\en"
+    },
+    {
+      "code" : "bjxsrd",
+      "name" : "鑫锐达",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "mailikuaidi",
+      "name" : "麦力快递",
+      "tel" : "400-0000-900",
+      "web" : "www.mailikuaidi.com"
+    },
+    {
+      "code" : "rfsd",
+      "name" : "瑞丰速递",
+      "tel" : "400-626-1667",
+      "web" : "www.rfkd88.com"
+    },
+    {
+      "code" : "letseml",
+      "name" : "美联快递",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "cnpex",
+      "name" : "CNPEX中邮快递",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "xsrd",
+      "name" : "鑫世锐达",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "chinatzx",
+      "name" : "同舟行物流",
+      "tel" : "18062512813\\18062699168",
+      "web" : "www.chinatzx.com"
+    },
+    {
+      "code" : "qbexpress",
+      "name" : "秦邦快运",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "idada",
+      "name" : "大达物流",
+      "tel" : "400-098-5656",
+      "web" : "www.idada56.com"
+    },
+    {
+      "code" : "skynet",
+      "name" : "skynet",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "nedahm",
+      "name" : "红马速递",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "czwlyn",
+      "name" : "云南中诚",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "wanboex",
+      "name" : "万博快递",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "nntengda",
+      "name" : "腾达速递",
+      "tel" : null,
+      "web" : "www.nntengda.com"
+    },
+    {
+      "code" : "sujievip",
+      "name" : "郑州速捷",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "gotoubi",
+      "name" : "UBI Australia",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "ecmsglobal",
+      "name" : "ecmsglobal",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "fastgo",
+      "name" : "FastGo",
+      "tel" : "400 886 3278 ",
+      "web" : "www.fastgo.com.au"
+    },
+    {
+      "code" : "ecmscn",
+      "name" : "易客满",
+      "tel" : "86+(400) 086-1756",
+      "web" : "www.trans4e.com\\cn\\index.html"
+    },
+    {
+      "code" : "eshunda",
+      "name" : "俄顺达",
+      "tel" : "0592-5798079",
+      "web" : "www.007ex.com"
+    },
+    {
+      "code" : "suteng",
+      "name" : "广东速腾物流",
+      "tel" : "4001136666",
+      "web" : "www.ste56.com"
+    },
+    {
+      "code" : "gdxp",
+      "name" : "新鹏快递",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "yundaexus",
+      "name" : "美国韵达",
+      "tel" : "888-408-3332",
+      "web" : "www.yundaex.us"
+    },
+    {
+      "code" : "toll",
+      "name" : "Toll",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "szdpex",
+      "name" : "Toll",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "baishiwuliu",
+      "name" : "百世物流",
+      "tel" : "400-8856-561",
+      "web" : "www.800best.com"
+    },
+    {
+      "code" : "postnlpacle",
+      "name" : "荷兰包裹",
+      "tel" : "34819",
+      "web" : "www.postnl.com"
+    },
+    {
+      "code" : "ltexp",
+      "name" : "乐天速递",
+      "tel" : "021-62269059 ",
+      "web" : "www.ltexp.com.cn "
+    },
+    {
+      "code" : "ztong",
+      "name" : "智通物流",
+      "tel" : "4000561818",
+      "web" : "www.ztong56.com"
+    },
+    {
+      "code" : "xtb",
+      "name" : "鑫通宝物流",
+      "tel" : "13834168880",
+      "web" : "www.xtb56.com"
+    },
+    {
+      "code" : "airpak",
+      "name" : "airpak expresss",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "postnlchina",
+      "name" : "荷兰邮政-中国件",
+      "tel" : "34819",
+      "web" : "www.postnl.com"
+    },
+    {
+      "code" : "colissimo",
+      "name" : "colissimo",
+      "tel" : "+33 3631",
+      "web" : "www.colissimo.fr"
+    },
+    {
+      "code" : "pcaexpress",
+      "name" : "PCA Express",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "hanrun",
+      "name" : "韩润",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "tnt",
+      "name" : "TNT",
+      "tel" : "800-820-9868",
+      "web" : "www.tnt.com.cn"
+    },
+    {
+      "code" : "cosco",
+      "name" : "中远e环球",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "sundarexpress",
+      "name" : "顺达快递",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "ajexpress",
+      "name" : "捷记方舟",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "arkexpress",
+      "name" : "方舟速递",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "adaexpress",
+      "name" : "明大快递",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "changjiang",
+      "name" : "长江国际速递",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "bdatong",
+      "name" : "八达通",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "stoexpress",
+      "name" : "美国申通",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "epanex",
+      "name" : "泛捷国际速递",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "shunjiefengda",
+      "name" : "顺捷丰达",
+      "tel" : "0755—88999000",
+      "web" : "www.sjfd-express.com"
+    },
+    {
+      "code" : "nmhuahe",
+      "name" : "华赫物流",
+      "tel" : null,
+      "web" : "nmhuahe.com"
+    },
+    {
+      "code" : "deutschepost",
+      "name" : "德国(Deutsche Post)",
+      "tel" : "0180 2 3333*",
+      "web" : "www.dpdhl.com\\en.html"
+    },
+    {
+      "code" : "baitengwuliu",
+      "name" : "百腾物流",
+      "tel" : "400-9989-256",
+      "web" : "www.beteng.com"
+    },
+    {
+      "code" : "pjbest",
+      "name" : "品骏快递",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "quansutong",
+      "name" : "全速通",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "zhongjiwuliu",
+      "name" : "中技物流",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "jiuyescm",
+      "name" : "九曳供应链",
+      "tel" : "4006-199-939",
+      "web" : "jiuyescm.com"
+    },
+    {
+      "code" : "tykd",
+      "name" : "天翼快递",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "dabei",
+      "name" : "德意思",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "chengji",
+      "name" : "城际快递",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "chengguangkuaidi",
+      "name" : "程光快递",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "sagawa",
+      "name" : "佐川急便",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "lantiankuaidi",
+      "name" : "蓝天快递",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "yongchangwuliu",
+      "name" : "永昌物流",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "birdex",
+      "name" : "笨鸟海淘",
+      "tel" : "4008-890-788",
+      "web" : "birdex.cn"
+    },
+    {
+      "code" : "yizhengdasuyun",
+      "name" : "一正达速运",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "jdorder",
+      "name" : "京东订单",
+      "tel" : "400-606-5500",
+      "web" : "m.jd.com"
+    },
+    {
+      "code" : "sdyoupei",
+      "name" : "优配速运",
+      "tel" : "0531 89977777",
+      "web" : "www.sdyoupei.com"
+    },
+    {
+      "code" : "trakpak",
+      "name" : "TRAKPAK",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "gts",
+      "name" : "GTS",
+      "tel" : "4000-159-111",
+      "web" : "www.gto315.com"
+    },
+    {
+      "code" : "aolau",
+      "name" : "AOL澳通速递",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "yiex",
+      "name" : "宜送物流",
+      "tel" : "4008636658",
+      "web" : "www.yi-express.com"
+    },
+    {
+      "code" : "tongdaxing",
+      "name" : "通达兴物流",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "hkposten",
+      "name" : "香港(HongKong Post)英文",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "suningorder",
+      "name" : "苏宁订单",
+      "tel" : "4008-365-365",
+      "web" : null
+    },
+    {
+      "code" : "flysman",
+      "name" : "飞力士物流",
+      "tel" : "86-755-83448000",
+      "web" : "www.flysman.com.cn"
+    },
+    {
+      "code" : "zhuanyunsifang",
+      "name" : "转运四方",
+      "tel" : null,
+      "web" : "www.transrush.com"
+    },
+    {
+      "code" : "ilogen",
+      "name" : "logen路坚",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "dongjun",
+      "name" : "成都东骏物流",
+      "tel" : null,
+      "web" : null
+    },
+    {
+      "code" : "japanpost",
+      "name" : "日本郵便",
+      "tel" : null,
+      "web" : null
+    }
+  ]
+}
